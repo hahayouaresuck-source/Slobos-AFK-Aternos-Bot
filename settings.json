@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "herobrine",
     "password": "1.21.1",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "ditmechungmay-3u11.aternos.me:61226",
-    "port": "61226",
+    "ip": "ditmechungmay-3u11.aternos.me",
+    "port": 61226,
     "version": "1.21.1",
     "try-creative": false
   },

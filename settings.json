@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": "60",
       "messages": [
         "chan bo may di",
         "dit me chung may!",
